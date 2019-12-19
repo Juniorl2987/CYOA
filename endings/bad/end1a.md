@@ -1,4 +1,4 @@
-# *GAME OVER*
+# *GAME OVER!*
 
 ---
 
