@@ -8,5 +8,5 @@
 
 ---
 
-## [sleep](choice1a/scene7a.md)
+## [sleep](../choice1a/scene7a.md)
 ## [try to escape]
