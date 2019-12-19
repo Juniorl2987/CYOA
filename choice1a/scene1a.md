@@ -9,4 +9,4 @@
 
 ## [Road](../choice1a/scene3a.md)
  
-## [Cave]()
+## [Cave](../choice2a/scene4a.md)

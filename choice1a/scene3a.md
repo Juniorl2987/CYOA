@@ -8,4 +8,4 @@
 ---
 
 ## [Fight](../choice1a/scene5a.md)
-## [Flee]()
+## [Flee](../choice2a/scene6a.md)

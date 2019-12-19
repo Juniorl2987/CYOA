@@ -7,5 +7,5 @@
 ## _What to do?_
 ---
 
-## [Run away](../endings/end1a.md)
-## [Work Hard]()
+## [Run away](../endings/bad/end1a.md)
+## [Work Hard](../endings/good/end2a.md)
