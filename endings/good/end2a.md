@@ -8,4 +8,4 @@
 
 ---
 
-## [Try again](../beginning/part1.md)
+## [Try again](../../beginning/part1.md)
