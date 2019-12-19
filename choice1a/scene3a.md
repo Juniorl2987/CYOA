@@ -7,5 +7,5 @@
 
 ---
 
-## [Fight](choice1a/scene5a.md)
+## [Fight](../choice1a/scene5a.md)
 ## [Flee]()

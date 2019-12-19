@@ -9,5 +9,5 @@
 ---
 
 ## [Walk around](../choice1a/scene1a.md)
- 
-## [Stay and sleep](choice1a/scene2a.md)
+
+## [Stay and sleep](../choice1a/scene2a.md)

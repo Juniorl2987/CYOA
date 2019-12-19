@@ -7,6 +7,6 @@
 
 ---
 
-## [Road](choice1a/scene3a.md)
+## [Road](../choice1a/scene3a.md)
  
 ## [Cave]()
