@@ -4,7 +4,7 @@
 
 ## You stayed and went back to sleep ...
 ## Okay ... 
-## *WAKE UP ALREADY!* You wakes up.
+## *WAKE UP ALREADY!* You woke up.
 ## _*WHAT NOW?*_
 
 ---
