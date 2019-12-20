@@ -8,4 +8,5 @@
 ---
 
 ## [Run away](../endings/bad/end1a.md)
+
 ## [Work Hard](../endings/good/end2a.md)

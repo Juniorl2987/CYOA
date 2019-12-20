@@ -10,4 +10,4 @@
 
 ## [Leave](../endings/bad/end5a.md)
 
-## [Go to the light]()
+## [Go to the light](../choice2a.md/scene6a.md)
