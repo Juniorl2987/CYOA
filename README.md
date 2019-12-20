@@ -4,5 +4,5 @@
 ---
 ### The purpose of creating this repository was to share my awesome CYOA with you guys!
 ### [Click here to begin!](beginning/part1.md)
-### [Click here to see the diagram of this CYOA!]()
+### [Click here to see the diagram of this CYOA!]() (not available yet)
 ### Made by Junior Li 
