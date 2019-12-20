@@ -12,4 +12,4 @@
 
 ## [Live near the cave](../endings/bad/end7a.md)
 
-## [Find a job](../choice2a.md/scene8a.md)
+## [Find a job](../choice2a/scene8a.md)
